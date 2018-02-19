@@ -64,7 +64,7 @@ setup(
         'ipython',
         'matplotlib',
         'pymatsolver>=0.1.2',
-        'properties>=0.3.6b0',
+        'properties>=0.4.0b1',
         'vectormath'
     ],
     author="Rowan Cockett",
